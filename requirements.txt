@@ -1,1 +1,7 @@
-
+openai
+opencv-python
+numpy
+ultralytics
+supervision
+pillow
+python-dotenv
