@@ -1,9 +1,8 @@
 openai
-opencv-python=headless
+opencv-python-headless
 numpy
 ultralytics
 supervision
 pillow
 python-dotenv
-libgl1
-libglib2.0-0
+streamlit
