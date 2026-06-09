@@ -10,6 +10,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
+client = OpenAI()
 
 model_path = 'yolov12n_vehiclebest.pt'
 model = YOLO(model_path)
