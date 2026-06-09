@@ -5,3 +5,4 @@ ultralytics
 supervision
 pillow
 python-dotenv
+cv2
