@@ -1,1 +1,2 @@
+libgl1
 libGL.so.1
