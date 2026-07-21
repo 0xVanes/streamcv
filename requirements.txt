@@ -1,3 +1,6 @@
+--extra-index-url https://pytorch.org
+torch
+torchvision
 openai
 opencv-python-headless
 numpy
